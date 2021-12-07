@@ -9,9 +9,10 @@ subject to Ax ≤ b
 x ≥0
 
 To execute it:
-´´´
+
+```
 python3 main.py
-´´´
+```
 
 And the following LP parameters must be typed:
 
